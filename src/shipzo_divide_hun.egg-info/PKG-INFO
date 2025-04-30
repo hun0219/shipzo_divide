@@ -10,7 +10,7 @@ Requires-Python: >=3.9
 Description-Content-Type: text/markdown
 
 ## pyproject.py
-![image](https://github.com/user-attachments/assets/ea66cb92-66bf-49f9-afe5-535c72004e4b)
+![image](https://github.com/user-attachments/assets/b7af20b5-8504-4b56-85fc-471bf45eca90)
 ## divide.py
 ```
 #나눗셈
@@ -27,6 +27,6 @@ def main():
 ```
 ## divide.py 결과
 ### pdm run
-![image](https://github.com/user-attachments/assets/43798cfe-ab1f-411e-a347-9841c1dd9d8d)
+![image](https://github.com/user-attachments/assets/12405935-bfd8-445d-97e1-70137ad4b404)
 ### python
-![image](https://github.com/user-attachments/assets/e2474ff5-a7d3-4935-8370-2c6cc4be817e)
+![image](https://github.com/user-attachments/assets/92f402ca-542b-45ff-8516-b9e8502af4cd)
